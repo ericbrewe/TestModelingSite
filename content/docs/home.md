@@ -7,7 +7,6 @@ menu: main
 pager: false
 sidebar: false
 tags:
-- Installation
 title: Home
 weight: 1
 ---

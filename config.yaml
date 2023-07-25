@@ -6,7 +6,7 @@ theme: Mainroad
 disqusShortname: ''
 googleAnalytics: ''
 Author:
-  avatar: img/avatar.png
+  avatar: img/welcome.png
   bio: 
   name: 
 Params:
@@ -15,8 +15,8 @@ Params:
   logo:
     subtitle: Curriculum Materials for University Mechanics
   mainSections:
-    - research
-    - video index
+    - Research
+    - Video Index
     - FAQ
     - Glossary
     - Appendices
