@@ -12,7 +12,7 @@ thumbnail:
   visibility:
   - list
 title: Video Index
-weight: 2
+weight: 4
 ---
 
  ### Week One - Mechanics

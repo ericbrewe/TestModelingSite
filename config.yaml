@@ -5,26 +5,27 @@ paginate: '10'
 theme: Mainroad
 disqusShortname: ''
 googleAnalytics: ''
-Author:
-  avatar: img/welcome2.png
-  bio: 
-  name: 
+Author: 
+  avatar: 
+  name: Eric Brewe
 Params:
   authorbox: yes
   description: A site for maintaing curriculum materials for University Modeling Instruction
-  logo:
+  header: img/welcome2.png
+  logo: 
     subtitle: Curriculum Materials for University Mechanics
   mainSections:
-    - Research
-    - Video Index
-    - FAQ
-    - Glossary
-    - Appendices
-    - Contributors
+    - home
+    - curriculum by week:   
+      - week One
+      - week Two
+    - video Index
+    - faq
+    - research
+    - contributors
   opengraph: yes
   pager: yes
   post_meta:
-    - date
     - categories
   readmore: no
   sidebar:
@@ -36,6 +37,7 @@ Params:
       - recent
       - categories
       - taglist
+  toc: true #trying
   twitter_cards: no
   widgets:
     recent_num: 5

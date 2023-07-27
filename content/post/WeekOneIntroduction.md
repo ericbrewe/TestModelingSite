@@ -1,22 +1,15 @@
 ---
 categories:
-- Weekly Curriculum
+- Weekly Plan
 date: "2023-07-25"
-description: Weekly Curriculum Materials
-menu:
-  main:
-    name: Curriculum By Week
-    weight: 4
-tags: 
-- Data Collection
-- Community Building
+tags:
+- Assessment
 - Whiteboarding
 - Constant Motion
-title: Weekly Curriculum Materials
-
+title: Week One - Introductions
 ---
 
-**In Class Activity Plan**
+***In Class Activity Plan***
 
 Week One (There are six hours in each week):
 
@@ -36,8 +29,7 @@ All three of these assessments are done in a row, and in the order listed. Reass
 
  
 
-15 min – Create Instructions to make a paper airplane
-(weird airplane, pdf)
+15 min – Create Instructions to make a paper airplane ([weird airplane]<https://docs.google.com/document/d/1LeFudchpQbTFzwQYGIzc0tZMfyQontEw/edit?usp=drive_link&ouid=107957678580485100480&rtpof=true&sd=true>)
 PURPOSE: Provide non-physics context to discuss role of representations, definitions, models. Establish framing for the course.
 
 Instructions to Class:
@@ -190,6 +182,9 @@ Use of terms without definitions (velocity in particular)
 
 Homework #2: Constant Motion Homework (Word, Pdf)
 PURPOSE: Practice using graphs to represent motion and interpreting graphs
+
+
+
 
 
 
